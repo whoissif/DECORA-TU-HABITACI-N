@@ -1,0 +1,7 @@
+{
+  "name": "RoomRevive AI",
+  "description": "Redecora cualquier habitación al instante usando IA. Sube una foto y describe el estilo de tus sueños para ver la transformación.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
